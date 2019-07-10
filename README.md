@@ -37,8 +37,9 @@ You have been given a solution with one project in it - 'XXX.YYY.TechnicalTest'.
 - Rule1 = AgeClassificationRule
 - Rule2 = ContinentClassificationRule
 - Rule3 = SalaryClassificationRule
-2) Write appropriate tests.
+1.1) Demonstrate usage of CI
+2) Write appropriate tests (demonstrate usage of Mocking).
 
 # ReportingService
-1) Write an implementation of 'XXX.YYY.TechnicalTest.IReportingService' and implement all the methods on the interface. The list of persons can get retrieved from 'XXX.YYY.TechnicalTest.IPersonDataService.Get()'.
-2) Write appropriate tests.
+1) Write an implementation of 'XXX.YYY.TechnicalTest.IReportingService' and implement all the methods on the interface. The list of persons can get retrieved from 'XXX.YYY.TechnicalTest.IPersonDataService.Get()'. Demonstrate usage of CI
+2) Write appropriate tests. (demonstrate usage of Mocking)
