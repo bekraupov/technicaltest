@@ -37,7 +37,7 @@ You have been given a solution with one project in it - 'XXX.YYY.TechnicalTest'.
 - Rule1 = AgeClassificationRule
 - Rule2 = ContinentClassificationRule
 - Rule3 = SalaryClassificationRule
-1.1) Demonstrate usage of CI
+1.1) Demonstrate usage of DI
 2) Write appropriate tests (demonstrate usage of Mocking).
 
 # ReportingService
