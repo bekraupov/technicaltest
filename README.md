@@ -41,5 +41,5 @@ You have been given a solution with one project in it - 'XXX.YYY.TechnicalTest'.
 2) Write appropriate tests (demonstrate usage of Mocking).
 
 # ReportingService
-1) Write an implementation of 'XXX.YYY.TechnicalTest.IReportingService' and implement all the methods on the interface. The list of persons can get retrieved from 'XXX.YYY.TechnicalTest.IPersonDataService.Get()'. Demonstrate usage of CI
+1) Write an implementation of 'XXX.YYY.TechnicalTest.IReportingService' and implement all the methods on the interface. The list of persons can get retrieved from 'XXX.YYY.TechnicalTest.IPersonDataService.Get()'. Demonstrate usage of DI
 2) Write appropriate tests. (demonstrate usage of Mocking)
